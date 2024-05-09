@@ -220,6 +220,21 @@ The services contained in this section enable the Owner to monitor and analyze w
     - `yandexuid`: 1 year
     - `ymex`: 1 year
 
+- **Tilda (Tilda Publishing Ltd.)**
+    
+    Analytical cookies on Tilda are used to collect information about how visitors interact with the website.
+    
+    Personal Data processed: Trackers; Usage Data.
+    
+    Place of processing: See the Tilda privacy policy — [Privacy Policy](https://tilda.cc/privacy/).
+    
+    Storage of Cookies duration:
+    
+    - `previousUrl`: 30 minutes
+    - `tildasid`: 30 minutes
+    - `tildauid`: 90 days
+    - `__ddg1_`: 1 year
+
 ### Tag Management
 
 SIP.TG uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
@@ -237,7 +252,18 @@ This results in the Users' Data flowing through these services, potentially resu
     Personal Data processed: Trackers; Usage Data.
     
     Place of processing: Ireland — [Privacy Policy](https://business.safety.google/privacy/).
+
+- **Referral program**
     
+    Referral program is managed by the Owner. We track the source from which the User come from.
+    
+    Personal Data processed: Trackers.
+    
+    Place of processing: European Union.    
+    
+    Storage of Cookies duration:
+    
+    - `partner`: 30 days
 
 ### Handling payments
 
