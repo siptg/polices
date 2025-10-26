@@ -1,6 +1,6 @@
 # Privacy and Cookies Policy
 
-Last updated: 2024-05-09
+Last updated: 2025-10-26
 
 ## Owner and Data Controller
 
@@ -174,7 +174,7 @@ These services are not activated automatically, but require explicit authorizati
     
     Place of processing: European Union.
 
-### Analytics
+### Analytics & marketing
 
 SIP.TG uses Trackers to measure traffic and analyze User behavior to improve the Service.
 
@@ -211,47 +211,16 @@ The services contained in this section enable the Owner to monitor and analyze w
     
     Storage of Cookies duration:
     
-    - `_ym_d`: 1 year
+    - `_ym_metrika_enabled`: 1 hour
     - `_ym_isad`: 2 days
     - `_ym_uid`: 1 year
+    - `_ym_d`: 1 year
+    - `_ym_ucs`: 1 year
+    - `gdpr`: up to 2 years
+    - `_ym_debug`: duration of the session
     - `_ym_visorc_*`: 30 minutes
-    - `i`: 1 year
-    - `yabs-sid`: duration of the session
-    - `yandexuid`: 1 year
-    - `ymex`: 1 year
-
-- **Tilda (Tilda Publishing Ltd.)**
-    
-    Analytical cookies on Tilda are used to collect information about how visitors interact with the website.
-    
-    Personal Data processed: Trackers; Usage Data.
-    
-    Place of processing: See the Tilda privacy policy — [Privacy Policy](https://tilda.cc/privacy/).
-    
-    Storage of Cookies duration:
-    
-    - `previousUrl`: 30 minutes
-    - `tildasid`: 30 minutes
-    - `tildauid`: 90 days
-    - `__ddg1_`: 1 year
-
-### Tag Management
-
-SIP.TG uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
-
-This type of service helps the Owner to manage the tags or scripts needed on SIP.TG in a centralized fashion.
-
-This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
-
-- **Google Tag Manager (Google Ireland Limited)**
-    
-    Google Tag Manager is a tag management service provided by Google Ireland Limited.
-    
-    In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
-    
-    Personal Data processed: Trackers; Usage Data.
-    
-    Place of processing: Ireland — [Privacy Policy](https://business.safety.google/privacy/).
+    - `_ym_hostIndex`: 1 day
+    - `_ym_sup_debug`: 1 day
 
 - **Referral program**
     
